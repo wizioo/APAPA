@@ -1,0 +1,23 @@
+{
+  "name": "October Photo Theme",
+  "version": "0.1.0",
+  "authors": [
+    "WIZIOO <contact@wizioo.fr>"
+  ],
+  "description": "Photo Theme for october CMS",
+  "keywords": [
+    "october",
+    "cms",
+    "theme",
+    "photos"
+  ],
+  "license": "MIT",
+  "homepage": "www.wizioo.fr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
