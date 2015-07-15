@@ -1,0 +1,1788 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dec",
+				"decoded_img"
+			],
+			[
+				"file",
+				"file_put_contents"
+			],
+			[
+				"filena",
+				"filenamePrefix"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"data",
+				"data_filename"
+			],
+			[
+				"im",
+				"img_filename"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"bas",
+				"base64ToFile"
+			],
+			[
+				"Imag",
+				"ImageConverter"
+			],
+			[
+				"img",
+				"img_data"
+			],
+			[
+				"replace",
+				"replaceWith	.replaceWith()"
+			],
+			[
+				"prev",
+				"previewSize"
+			],
+			[
+				"re",
+				"resizable-content"
+			],
+			[
+				"email",
+				"emailContent"
+			],
+			[
+				"pic",
+				"pictureHeight"
+			],
+			[
+				"set",
+				"settingPanel"
+			],
+			[
+				"pictu",
+				"picture-width"
+			],
+			[
+				"image",
+				"imageSize"
+			],
+			[
+				"pictureH",
+				"pictureHeight"
+			],
+			[
+				"pictureW",
+				"pictureWidth"
+			],
+			[
+				"pi",
+				"pictureWidthInput"
+			],
+			[
+				"proportion",
+				"proportionInput"
+			],
+			[
+				"ima",
+				"imageSize"
+			],
+			[
+				"edi",
+				"editableColumns"
+			],
+			[
+				"editable",
+				"editableContent"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"con",
+				"contentCols"
+			],
+			[
+				"ck",
+				"ckeditor"
+			],
+			[
+				"quit",
+				"quitEditMode"
+			],
+			[
+				"initBut",
+				"initButtonColorInputs"
+			],
+			[
+				"buttonColo",
+				"buttonColorSelectors"
+			],
+			[
+				"settingPan",
+				"setting-panel"
+			],
+			[
+				"buttonText",
+				"buttonTextInput"
+			],
+			[
+				"prop",
+				"proportionalHeight"
+			],
+			[
+				"spacer",
+				"spacer-color-selector"
+			],
+			[
+				"bg-c",
+				"bg-color-selector"
+			],
+			[
+				"bg",
+				"bgColorSelector"
+			],
+			[
+				"cropit",
+				"cropit-image-input"
+			],
+			[
+				"pictur",
+				"picture-block"
+			],
+			[
+				"pictureWi",
+				"pictureWidthInput"
+			],
+			[
+				"picture",
+				"pictureHeightInput"
+			],
+			[
+				"pictureHe",
+				"pictureHeightInput"
+			],
+			[
+				"setting-panel",
+				"setting-panel"
+			],
+			[
+				"picture-",
+				"picture-height"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"button",
+				"buttonLink"
+			],
+			[
+				"buttonL",
+				"buttonLinkInput"
+			],
+			[
+				"buttonTex",
+				"buttonTextInput"
+			],
+			[
+				"buttonT",
+				"buttonText"
+			],
+			[
+				"setting",
+				"setting-panel"
+			],
+			[
+				"blockFil",
+				"blockFileType"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"item",
+				"itemClass"
+			],
+			[
+				"Bl",
+				"blockStructure"
+			],
+			[
+				"settin",
+				"setting-panel"
+			],
+			[
+				"content",
+				"content-col"
+			],
+			[
+				"dupli",
+				"duplicateContent"
+			],
+			[
+				"double",
+				"doubleCol"
+			],
+			[
+				"settingPanel",
+				"settingPanelStructure"
+			],
+			[
+				"settings",
+				"settingsFilePath"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"setting-pa",
+				"setting-panel-form"
+			],
+			[
+				"sett",
+				"settingPanelStructure"
+			],
+			[
+				"chang",
+				"changeColor"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"setti",
+				"setting-panel"
+			],
+			[
+				"close",
+				"closeSettingPanel"
+			],
+			[
+				"color",
+				"colorpicker"
+			],
+			[
+				"enable",
+				"enableColorButtons"
+			],
+			[
+				"use",
+				"usemin"
+			],
+			[
+				"usem",
+				"useminPrepare"
+			],
+			[
+				"focu",
+				"focusManager"
+			],
+			[
+				"qui",
+				"quitEditMode"
+			],
+			[
+				"cke",
+				"ckeInUse"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"un",
+				"unEditBlock"
+			],
+			[
+				"remove",
+				"removeBlock"
+			],
+			[
+				"r",
+				"replaceWith"
+			],
+			[
+				"drop",
+				"dropzone"
+			],
+			[
+				"so-",
+				"so-pink"
+			],
+			[
+				"toggleL",
+				"toggleMobileMenu"
+			],
+			[
+				"is",
+				"is-deployed"
+			],
+			[
+				"tog",
+				"toggleMobileMenu"
+			],
+			[
+				"Close",
+				"closeMobileMenu"
+			],
+			[
+				"Clos",
+				"closeMobileMenu"
+			],
+			[
+				"back",
+				"backToTopPadding"
+			],
+			[
+				"off",
+				"offsetCollection"
+			],
+			[
+				"contrasted",
+				"contrastedElements"
+			],
+			[
+				"conter",
+				"contrasted"
+			],
+			[
+				"change",
+				"changeOffset"
+			],
+			[
+				"menu",
+				"menuToggler"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"ligh",
+				"lighten"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ha",
+				"hasClass  (function)"
+			],
+			[
+				"secon",
+				"secondary-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"opa",
+				"opacity"
+			],
+			[
+				"toggl",
+				"toggleClass  (function)"
+			],
+			[
+				"asse",
+				"assemble"
+			],
+			[
+				"font",
+				"font-header"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"Response",
+				"Response-view	Response-view"
+			],
+			[
+				"cards",
+				"CardsController"
+			],
+			[
+				"Respon",
+				"Response-json	Response-json"
+			],
+			[
+				"card",
+				"CardsController"
+			],
+			[
+				"Redirect",
+				"Redirect-home	Redirect-home"
+			],
+			[
+				"Redirec",
+				"Redirect-action	Redirect-action"
+			],
+			[
+				"Inp",
+				"Input-get	Input-get"
+			],
+			[
+				"getHo",
+				"gethostname"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"l",
+				"last-child  (pseudo-class)"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wp",
+				"wp_styles"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"border-c",
+				"border-collapse:   (property)"
+			],
+			[
+				"so-black",
+				"so-black-light"
+			],
+			[
+				"so",
+				"so-blue-light"
+			],
+			[
+				"fs",
+				"font-style"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"tr",
+				"trs	transition: ${1:prop} ${2:time};"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"remo",
+				"Emmet: Remove Tag"
+			],
+			[
+				"rem",
+				"Emmet: Remove Tag"
+			],
+			[
+				"wr",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"w",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"remov",
+				"Emmet: Remove Tag"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rmv",
+				"Emmet: Remove Tag"
+			],
+			[
+				"tag",
+				"Emmet: Rename Tag"
+			],
+			[
+				"rmvb",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"remvb",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"remobv",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"remove br",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"emme",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remp",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Git: Show Tags"
+			],
+			[
+				"rind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"REMO",
+				"Emmet: Remove Tag"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"fol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"emmet",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rena",
+				"Emmet: Rename Tag"
+			],
+			[
+				"side",
+				"Side Bar: Reveal File"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 172.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"view.encoding();",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/_playground/octo20150617/myoctober2015",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/_playground/octo20150617/myoctober2015/modules",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/_playground/octo20150617/myoctober2015/modules/system",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/_playground/octo20150617/myoctober2015/storage/app/uploads",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/_playground/octo20150617/myoctober2015/storage/app/uploads/public/558/191",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/_playground/octo20150617/myoctober2015/storage/app/uploads/public/558/191/816",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/_playground/octo20150617/myoctober2015/themes",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/_playground/octo20150617/myoctober2015/themes/demo"
+	],
+	"file_history":
+	[
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/_playground/octo20150617/myoctober2015/config/database.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/server/index.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/server/.htaccess",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/server/models/ImageConverter.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/index.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/js/handlers.js",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/server/index.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/js/block.helpers.js",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/server/style.css",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/server/vendor/tijsverkoyen/css-to-inline-styles/src/CssToInlineStyles.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/includes/block-structure.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/js/script.js",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/includes/setting-panel.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/_less/_custom-ink.less",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/js/ckeditor.helpers.js",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/includes/picture-settings.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/js/setting-panel.helpers.js",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/server/composer.json",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/server/vendor/composer/autoload_real.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/includes/block-text.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/includes/block-title.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/server/styles.css",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/server/config.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/includes/block-picture.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/test.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/includes/block-button.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/_less/styles.less",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/_less/_mixins.less",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/_less/_ink.less",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/includes/button-settings.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/_less/_setting-panel.less",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/_less/_variables.less",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/includes/space-settings.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/includes/text-settings.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/readme.md",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/dist/includes/text-settings.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/.jshintrc",
+		"/Library/KeyBindings/DefaultKeyBinding.dict",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/_less/_picture-block.less",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/bower_components/cropit/dist/jquery.cropit.js",
+		"/Volumes/Big Data/Users/JLN/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/Big Data/Users/JLN/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Volumes/Big Data/Users/JLN/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/Big Data/Users/JLN/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/417DF262-1F9B-474F-A5BF-2C9278DD6629/migration.result",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/bower.json",
+		"/Volumes/Volume_2/Transmission/Indochine - Alice et June/000-indochine-alice_et_june-2cd-fr-2005-mvp.nfo",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/dist/includes/picture-settings.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/includes/block-space.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/dist/includes/button-settings.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/gruntfile.js",
+		"/Volumes/Big Data/Users/JLN/Downloads/ink-1.0.5/ink.css",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/expressplan/backup/expressplan.sql",
+		"/Volumes/Big Data/Users/JLN/.ssh/known_hosts",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/.gitignore",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/node_modules/grunt/node_modules/colors/ReadMe.md",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/package.json",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/includes/block-text-setting.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/bower_components/ckeditor/samples/uilanguages.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/_tests.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/bower_components/ckeditor/samples/index.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/bower_components/ckeditor/samples/uicolor.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/readme.md",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/dist/index.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/_less/_cke.less",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/block-button.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/block-space.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/block-picture.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/block-text.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/block-title.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/block.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/Wizioo2/Gruntfile.js",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/website/bower_components/_less/styles.less",
+		"/Volumes/Big Data/Users/JLN/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Volumes/Big Data/Users/JLN/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/SG Autorepondeur/.bowerrc",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Storage/PageRegionInstance.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/pages/promo_rentree-2014.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/package.json",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/plugins/woocommerce/templates/single-product/product-image.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce-upload-my-file/woocommerce-upload-my-file.php",
+		"/Volumes/Big Data/Users/JLN/Downloads/white-archive/html/video_slider/index.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/order/tracking.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/cart/mini-cart.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/notices/notice.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/cart/shipping-calculator.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/cart/cart-shipping.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/cart/cart-item-data.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/scss/_alerts.scss",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/checkout/thankyou.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/myaccount/form-login.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/plugins/woocommerce-upload-my-file/woocommerce-upload-my-file.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/plugins/woocommerce/assets/js/frontend/checkout.js",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/checkout/form-coupon.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/checkout/review-order.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/scss/_variables.scss",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/bower_components/font-awesome/less/variables.less",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/bower_components/foundation/scss/foundation/components/_alert-boxes.scss",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/plugins/w3-total-cache/lib/W3/AdminLinks.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/node_modules/grunt-cli/AUTHORS",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/plugins/woocommerce/assets/css/woocommerce.scss",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/wordpress/wp-includes/css/buttons.css",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/node_modules/grunt/internal-tasks/bump.js",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/pages/baches.html",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/wordpress/wp-admin/css/colors/_variables.scss",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/single-product/add-to-cart/variable.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/wordpress/wp-includes/vars.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/plugins/smart-slider-2/library/smartslider/assets/admin/smart/full_smart/Vertical_Accordion.smart",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/node_modules/grunt-mysql-dump/.idea/vcs.xml",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/notices/error.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/notices/success.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/single-product/title.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/plugins/woocommerce/templates/single-product/title.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/plugins/woocommerce/templates/content-product.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/scss/_tables.scss",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/scss/_settings.scss",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/single-product/meta.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/scss/_tabs.scss",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/single-product/tabs/additional-information.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/single-product/product-image.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/content-single-product.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/content-product.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/single-product/tabs/tabs.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/single-product.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/loop/add-to-cart.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/woocommerce/single-product/tabs/description.php",
+		"/Volumes/Big Data/Users/JLN/Documents/Mes Sites/clients/soprint2k14/website/content/themes/reverie5/scss/style.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"website/js/*js",
+			"website/_less/*.less",
+			"website/less/*.less",
+			"website/js/*js",
+			"website/*js",
+			"website/content/plugins/woocommerce/*.php",
+			"website/content/themes/reverie5/woocommerce/*.php",
+			"website/content/plugins/woocommerce-upload*/*.php",
+			"website/content/themes/reverie5/woocommerce/*.php",
+			"website/content/*.php",
+			"website/content/plugins/woocommerce/*.js",
+			"website/content/themes/reverie5/woocommerce/*.php",
+			"website/content/plugins/woocommerce/*.scss",
+			"website/content/plugins/woocommerce/*.php",
+			"website/content/themes/plugins/woocommerce/*.php",
+			"website/content/themes/reverie5/woocommerce/*.php",
+			"website/content/themes/reverie5/*.php",
+			"website/content/themes/reverie5/woocommerce/*.php",
+			"website/themes/reverie5/woocommerce/*.php",
+			"/website/themes/reverie5/woocommerce/*.php",
+			"./website/themes/reverie5/woocommerce/*.php",
+			"website/themes/reverie5/woocommerce/*.php",
+			"website/themes/reverie5/woocommerce",
+			"app/scss/*.scss",
+			"app/*.scss",
+			"app/*.html",
+			"app/scss/*.scss",
+			"website/content/themes/lensa*",
+			"website/content/plugins/woocommerce",
+			"website/content/themes/lensa/*.php",
+			"website/content/themes/lensa",
+			"website/content/themes/reverie5/*.php",
+			"website/content/themes/reverie5/*.js",
+			"website/content/themes/reverie5/*.scss",
+			"website/content/themes/reverie5/*.php",
+			"website/content/reverie5/*.php",
+			"website/content/plugins/smart-slider-2/*.php",
+			"website/content/plugins/smartslider/*.php",
+			"*.scss",
+			"pages/*.html",
+			"*.scss",
+			"pages/*.html",
+			"./pages/*.html",
+			"content/themes/reverie5/*.php",
+			"content/themes/reverie5/*.scss",
+			"content/themes/reverie5/*.php",
+			"content/themes/reverie5/*.scss",
+			"bower_components/foundation/*.scss",
+			"bower_components/foundation/*.css",
+			"content/themes/reverie5/*.css",
+			"content/themes/reverie5/*.scss",
+			"content/themes/reverie5/*.css",
+			"content/*.css",
+			"/content/*.css",
+			"*.css",
+			"*.scss",
+			"*.php",
+			"*.*",
+			"*.php",
+			"*.*",
+			"*.",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.js",
+			"*.less",
+			"*.php",
+			"*.less",
+			"*.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"filename",
+			"                // .attr('src', image)\n                // .attr('width', previewSize.width)\n                // .attr('height', previewSize.height);",
+			"init",
+			"block",
+			"disableSelection",
+			"enableSelection",
+			"disableSelection",
+			"content-col",
+			".active",
+			"this",
+			"blockContent",
+			"editableCol",
+			"editableB",
+			"editableBlocksCon",
+			"enterEditMode",
+			"$block",
+			"closest",
+			"quitEdit",
+			"center",
+			"quitEditMode",
+			"colorpicker(",
+			"{\n",
+			"initButton",
+			"initButtonProperties",
+			"button",
+			"colorPicke",
+			"button-color-",
+			"initButtonP",
+			"index",
+			"toggleC",
+			"initButton",
+			"buttonTextInput",
+			"\");\n",
+			"button-",
+			"this",
+			"');\n",
+			");\n",
+			"cropit",
+			"editableBlocksContainer",
+			"color-selector",
+			"editableBlock",
+			"        ,",
+			"editable",
+			".container",
+			"bg-color-",
+			"colorpicker(",
+			"colorpic",
+			"colorpicker",
+			"';\n",
+			".type",
+			"jp",
+			"block",
+			"initCropit",
+			"makeresiz",
+			"cropit",
+			".block-content",
+			".tex",
+			".block-content",
+			"end",
+			"#image",
+			"previewSi",
+			"button-text",
+			"button-link",
+			"utton-link",
+			"setting",
+			"quitEdi",
+			".block-cont",
+			"        <",
+			"img",
+			"Hey guys",
+			"UNIQID",
+			"ello",
+			"getBlockContentFilePath",
+			"spacer",
+			"initcolumns",
+			"link",
+			"color",
+			"enterEditMode",
+			"content",
+			"resiza",
+			"colorpick",
+			"makeResi",
+			"columnsWrapper",
+			"contentCol",
+			"wrapper",
+			"changeInBlo",
+			"td",
+			"makere",
+			"MAKEresi",
+			"changeIn",
+			"block",
+			"quitEditMode",
+			"block-content",
+			"ckeditor",
+			".block",
+			"header",
+			"resizable",
+			"dup",
+			"duplica",
+			"llo",
+			"allo",
+			"append",
+			"duplicateContent",
+			"        ();",
+			"());\n",
+			"col-sele",
+			"console.log",
+			"alert",
+			"console.log",
+			"slidedown",
+			"blocFiltType",
+			"displayblock",
+			"data",
+			"');",
+			"mouseup",
+			"md",
+			"\");\n",
+			"lugins",
+			"        // helper: 'clone',\n        // placeholder: 'block active', //  Attribue les classes .block et .active à l'emplacement ou ira notre élément lorsqu'on le déplace\n        // appendTo: 'body',\n        // cursorAt: {top: 0, left: 0},\n        // connectWith: '.items',\n        // containment: '.interface-container',\n        // forceHelperSize: true,\n        // forcePlaceholderSize: true,",
+			"$block",
+			"ove,",
+			"item",
+			"lui",
+			"glyphicon",
+			"\"",
+			".item",
+			"\"",
+			"ckeIn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$blockContent",
+			"duplicateColumn",
+			"blocFileType",
+			"blocFilteType",
+			"mousedown",
+			"'",
+			"toggleMobileMenu",
+			" '",
+			"references(",
+			"th",
+			";",
+			"format",
+			"finition",
+			"#contact_message",
+			"#contact_email",
+			".error",
+			"#contact_name",
+			"#contact_nom",
+			"illustrations/",
+			"\\\\",
+			".link_slide",
+			"primary-color",
+			"menu-color",
+			"'../code/fonts/socialfont/",
+			"'../code/fonts/",
+			"socialFont_",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.phpdocumentor":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "October.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"imagec",
+				"server/models/ImageConverter.php"
+			],
+			[
+				"handle",
+				"website/js/handlers.js"
+			],
+			[
+				"composer",
+				"server/composer.json"
+			],
+			[
+				"cssto",
+				"server/vendor/tijsverkoyen/css-to-inline-styles/src/CssToInlineStyles.php"
+			],
+			[
+				"index.",
+				"website/index.html"
+			],
+			[
+				"scr",
+				"website/js/script.js"
+			],
+			[
+				"index",
+				"website/index.html"
+			],
+			[
+				"mixins",
+				"website/_less/_mixins.less"
+			],
+			[
+				"handlers",
+				"website/js/handlers.js"
+			],
+			[
+				"textsettings",
+				"website/includes/text-settings.html"
+			],
+			[
+				"settings",
+				"dist/includes/text-settings.html"
+			],
+			[
+				"setting",
+				"website/includes/setting-panel.html"
+			],
+			[
+				"readm",
+				"readme.md"
+			],
+			[
+				"cropit",
+				"website/bower_components/cropit/dist/jquery.cropit.js"
+			],
+			[
+				"script",
+				"website/js/script.js"
+			],
+			[
+				"picture-",
+				"dist/includes/picture-settings.html"
+			],
+			[
+				"structu",
+				"website/includes/block-structure.html"
+			],
+			[
+				"style",
+				"website/_less/styles.less"
+			],
+			[
+				"scri",
+				"website/js/script.js"
+			],
+			[
+				"strucut",
+				"website/includes/block-structure.html"
+			],
+			[
+				".gitign",
+				".gitignore"
+			],
+			[
+				"read",
+				"readme.md"
+			],
+			[
+				"block-sett",
+				"website/includes/block-text-setting.html"
+			],
+			[
+				".less",
+				"website/_less/styles.less"
+			],
+			[
+				"gruntfi",
+				"gruntfile.js"
+			],
+			[
+				"inde",
+				"website/index.html"
+			],
+			[
+				"scrip",
+				"website/js/script.js"
+			],
+			[
+				"grunt",
+				"gruntfile.js"
+			],
+			[
+				"price.php",
+				"website/content/themes/reverie5/woocommerce/single-product/price.php"
+			],
+			[
+				"variables",
+				"website/content/themes/reverie5/scss/_variables.scss"
+			],
+			[
+				"alert",
+				"website/content/themes/reverie5/scss/_alerts.scss"
+			],
+			[
+				"buttons.sc",
+				"website/content/themes/reverie5/scss/_buttons.scss"
+			],
+			[
+				"varia",
+				"website/content/themes/reverie5/scss/_variables.scss"
+			],
+			[
+				"single-pro",
+				"website/content/plugins/woocommerce/templates/single-product.php"
+			],
+			[
+				"wc-templ",
+				"website/content/plugins/woocommerce/includes/wc-template-hooks.php"
+			],
+			[
+				"",
+				"README.md"
+			],
+			[
+				"nav",
+				"app/scss/_nav.scss"
+			],
+			[
+				"button",
+				"app/scss/_buttons.scss"
+			],
+			[
+				"eleme",
+				"app/scss/_elements.scss"
+			],
+			[
+				"item",
+				"app/scss/_items.scss"
+			],
+			[
+				"npm",
+				"npm-debug.log"
+			],
+			[
+				"set",
+				"app\\scss\\_settings.scss"
+			],
+			[
+				"fonts",
+				"app\\scss\\_fonts.scss"
+			],
+			[
+				"logo",
+				"app\\scss\\_logo.scss"
+			],
+			[
+				"pages",
+				"app\\scss\\_pages.scss"
+			],
+			[
+				"settin",
+				"app\\scss\\_settings.scss"
+			],
+			[
+				"type.scss",
+				"app\\bower_components\\foundation\\scss\\foundation\\components\\_type.scss"
+			],
+			[
+				"foundation",
+				"app\\bower_components\\foundation\\scss\\foundation.scss"
+			],
+			[
+				"common",
+				"app\\scss\\_common.scss"
+			],
+			[
+				"buttons",
+				"app\\scss\\_buttons.scss"
+			],
+			[
+				"sett",
+				"app\\scss\\_settings.scss"
+			],
+			[
+				"orbit",
+				"app\\bower_components\\foundation\\scss\\foundation\\components\\_orbit.scss"
+			],
+			[
+				"app.js",
+				"app\\js\\app.js"
+			],
+			[
+				"pages.",
+				"app\\scss\\_pages.scss"
+			],
+			[
+				"ani",
+				"app\\scss\\_animations.scss"
+			],
+			[
+				"kitch",
+				"app\\kitchensink.html"
+			],
+			[
+				"functions.scs",
+				"app\\bower_components\\foundation\\scss\\foundation\\_functions.scss"
+			],
+			[
+				"mixi",
+				"app\\scss\\_mixins.scss"
+			],
+			[
+				"forms.scss",
+				"app\\bower_components\\foundation\\scss\\foundation\\components\\_forms.scss"
+			],
+			[
+				"forms.scs",
+				"app\\bower_components\\foundation\\scss\\foundation\\components\\_forms.scss"
+			],
+			[
+				"elements",
+				"app\\scss\\_elements.scss"
+			],
+			[
+				"vari",
+				"app\\bower_components\\font-awesome\\less\\variables.less"
+			],
+			[
+				"cardscon",
+				"app\\controllers\\CardsController.php"
+			],
+			[
+				"cardsc",
+				"app\\controllers\\CardsController.php"
+			],
+			[
+				"delete",
+				"app\\views\\cards\\delete.blade.php"
+			],
+			[
+				"index.bl",
+				"app\\views\\cards\\index.blade.php"
+			],
+			[
+				"route",
+				"app\\routes.php"
+			],
+			[
+				"layout",
+				"app\\views\\layout.blade.php"
+			],
+			[
+				"migration",
+				"app\\database\\migrations\\2014_09_11_152509_create_base_tables.php"
+			],
+			[
+				"card",
+				"app\\models\\Card.php"
+			],
+			[
+				"start",
+				"bootstrap\\start.php"
+			],
+			[
+				"mix",
+				"prod\\scss\\_mixins.scss"
+			],
+			[
+				"woocommercescss",
+				"prod\\scss\\_woocommerce.scss"
+			],
+			[
+				"variabl",
+				"prod\\scss\\_variables.scss"
+			],
+			[
+				"woo.css",
+				"website\\content\\plugins\\woocommerce\\assets\\css\\woocommerce.css"
+			],
+			[
+				"mixin",
+				"prod\\scss\\_mixins.scss"
+			],
+			[
+				"style.css",
+				"website\\content\\themes\\lensa-child\\css\\style.css"
+			],
+			[
+				".css",
+				"website\\content\\themes\\lensa-child\\style.css"
+			],
+			[
+				"header",
+				"website\\content\\themes\\lensa-child\\header.php"
+			],
+			[
+				"fun",
+				"website\\content\\themes\\lensa\\functions.php"
+			],
+			[
+				"functions",
+				"website\\wordpress\\wp-includes\\functions.php"
+			],
+			[
+				"wp-load",
+				"website\\wordpress\\wp-load.php"
+			],
+			[
+				"funct",
+				"website\\content\\themes\\lensa\\functions.php"
+			],
+			[
+				"headersc",
+				"prod\\scss\\_header.scss"
+			],
+			[
+				"ie.css",
+				"website\\content\\themes\\reverie5\\css\\ie.css"
+			],
+			[
+				"styl",
+				"website\\content\\themes\\reverie5\\style.css"
+			],
+			[
+				"clean",
+				"website\\content\\themes\\reverie5\\lib\\clean.php"
+			],
+			[
+				"footer",
+				"website\\content\\themes\\reverie5\\footer.php"
+			],
+			[
+				"ie",
+				"website\\content\\themes\\reverie5\\css\\ie.css"
+			],
+			[
+				"rem",
+				"website\\content\\themes\\reverie5\\js\\rem.min.js"
+			],
+			[
+				"menus",
+				"website\\content\\themes\\reverie5\\scss\\_menus.scss"
+			],
+			[
+				"conta",
+				"pages\\contact.html"
+			],
+			[
+				"emb",
+				"pages\\emballage et envoi de vos colis.html"
+			],
+			[
+				"accu",
+				"pages\\accueil.html"
+			],
+			[
+				"fax",
+				"pages\\photocopies-en-libre-service-Fax.html"
+			],
+			[
+				"photo",
+				"pages\\photo-numerique.html"
+			],
+			[
+				"petit",
+				"pages\\petite-fourniture-de-bureau.html"
+			],
+			[
+				"dest",
+				"pages\\destruction de documents.html"
+			],
+			[
+				"serv",
+				"pages\\Services-plus.html"
+			],
+			[
+				"plas",
+				"pages\\plastification.html"
+			],
+			[
+				"agr",
+				"pages\\agrafage-perforation-rainage-pliage.html"
+			],
+			[
+				"rel",
+				"pages\\reliures.html"
+			],
+			[
+				"fini",
+				"pages\\Finition.html"
+			],
+			[
+				"num",
+				"pages\\numerisation.html"
+			],
+			[
+				"plans",
+				"pages\\Tirage-de-plans.html"
+			],
+			[
+				"roll",
+				"pages\\roll-up-enrouleur-drapeau.html"
+			],
+			[
+				"papier",
+				"pages\\papier-peint.html"
+			],
+			[
+				"bach",
+				"pages\\baches.html"
+			],
+			[
+				"adh",
+				"pages\\adhesif-micro-perfore.html"
+			],
+			[
+				"affi",
+				"pages\\affiches.html"
+			],
+			[
+				"gran",
+				"pages\\grand-format.html"
+			],
+			[
+				"fly",
+				"pages\\flyers-tracts-depliants-plaquettes.html"
+			],
+			[
+				"carter",
+				"pages\\carterie.html"
+			],
+			[
+				"flyer",
+				"pages\\flyers-tracts-depliants-plaquettes.html"
+			],
+			[
+				"repro",
+				"pages\\reproduction classeurs.html"
+			],
+			[
+				"libre",
+				"pages\\libre-service.html"
+			],
+			[
+				"impression",
+				"pages\\impressions-classiques.html"
+			],
+			[
+				"destru",
+				"pages\\destruction de documents.html"
+			],
+			[
+				"emball",
+				"pages\\emballage et envoi de vos colis.html"
+			],
+			[
+				"tracts",
+				"pages\\flyers-tracts-depliants-plaquettes.html"
+			],
+			[
+				"head",
+				"website\\content\\themes\\reverie5\\header.php"
+			],
+			[
+				"ooter",
+				"website\\content\\themes\\reverie5\\footer.php"
+			],
+			[
+				"classique",
+				"pages\\impressions-classiques.html"
+			],
+			[
+				"classiqu",
+				"pages\\impressions-classiques.html"
+			],
+			[
+				"reli",
+				"pages\\reliures.html"
+			],
+			[
+				"car",
+				"pages\\carterie.html"
+			],
+			[
+				"rol",
+				"pages\\roll-up-enrouleur-drapeau.html"
+			],
+			[
+				"grand",
+				"pages\\grand-format.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Mes Sites/clients/SG Autorepondeur/SG-autorepondeur.sublime-project"
+			],
+			[
+				"exp",
+				"~/Documents/Mes Sites/clients/expressplan/expressplan.sublime-project"
+			],
+			[
+				"wiz",
+				"~/Documents/Mes Sites/Wizioo2/wizioo2.0.sublime-project"
+			],
+			[
+				"ex",
+				"~/Documents/Mes Sites/clients/expressplan/expressplan.sublime-project"
+			],
+			[
+				"alpe",
+				"D:\\Mes Documents\\Mes Sites\\clients\\AlpesGravure\\alpes-gravure.sublime-project"
+			],
+			[
+				"code",
+				"/D/Mes Documents/Mes Sites/_playground/CodeBright/CodeBright.sublime-project"
+			],
+			[
+				"angular",
+				"/D/Mes Documents/Mes Sites/_playground/angular-phonecat/angular-tuto.sublime-project"
+			],
+			[
+				"quick",
+				"/D/Mes Documents/Mes Sites/clients/quickprint/quickprint.sublime-project"
+			],
+			[
+				"larav",
+				"/D/Mes Documents/Mes Sites/_playground/my_laravel4_project/laravel4_test_project.sublime-project"
+			],
+			[
+				"an",
+				"/D/Mes Documents/Mes Sites/_playground/angular-phonecat/angular-tuto.sublime-project"
+			],
+			[
+				"snr",
+				"/D/Mes Documents/Mes Sites/clients/soprint/subdomains/ntnsnr.sublime-project"
+			],
+			[
+				"blog",
+				"/D/Mes Documents/Mes Sites/blog.wizioo/blog wizioo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
