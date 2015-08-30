@@ -1,0 +1,78 @@
+@import "normalize";
+@import 'settings';
+@import "components/global";
+
+@import "components/grid";
+// @import 'components/accordion';
+// @import 'components/alert-boxes';
+// @import 'components/block-grid';
+// @import 'components/breadcrumbs';
+// @import 'components/button-groups';
+// @import 'components/buttons';
+// @import 'components/clearing';
+// @import 'components/dropdown';
+// @import 'components/dropdown-buttons';
+// @import 'components/flex-video';
+// @import 'components/forms';
+// @import 'components/icon-bar';
+// @import 'components/inline-lists';
+// @import 'components/joyride';
+// @import 'components/keystrokes';
+// @import 'components/labels';
+// @import 'components/magellan';
+// @import 'components/orbit';
+// @import 'components/pagination';
+@import 'components/panels';
+// @import 'components/pricing-tables';
+// @import 'components/progress-bars';
+// @import 'components/range-slider';
+// @import 'components/reveal';
+// @import 'components/side-nav';
+// @import 'components/split-buttons';
+// @import 'components/sub-nav';
+// @import 'components/switches';
+// @import 'components/tables';
+// @import 'components/tabs';
+// @import 'components/thumbs';
+// @import 'components/tooltips';
+// @import 'components/top-bar';
+@import 'components/type';
+// @import 'components/offcanvas';
+// @import 'components/visibility';
+
+@import "variables";
+@import "nav";
+@import "shame";
+
+section.content-wrapper {
+	position: relative;
+	margin-left: 0;
+	@media #{$medium-up} {
+		margin-left: 14rem;
+		padding-top: 1rem;
+		// margin-top: 1rem;
+	}
+	@media #{$large-up} {
+		margin-left: 16rem;
+		padding-top: 2rem;
+		// margin-top: 2rem;
+	}
+}
+	#content {
+		background-color: rgba($smoke, 0.9);
+
+	}
+
+footer#layout-footer {
+	color: $ghost;
+	position: fixed;
+	padding: .3rem 1rem;
+	bottom: 0px;
+	z-index: -1;
+	background-color: rgba($black, 0.6);
+	width: 100%;
+}
+
+div.vegas-timer {
+	z-index: 0 !important;
+}
