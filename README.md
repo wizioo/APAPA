@@ -1,3 +1,7 @@
+## A Faire
+
+- Mettre en place un livereload apres compil sass
+
 <p align="center">
     <img src="https://github.com/octobercms/october/blob/master/themes/demo/assets/images/october.png?raw=true" alt="October" />
 </p>

@@ -12,7 +12,7 @@ module.exports = function(grunt) {
 
 		sass: {
 			options: {
-				includePaths: ['<%= app %>/bower_components/foundation/scss']
+				includePaths: ['<%= app %>/bowercomponents/foundation/scss/','<%= app %>/bowercomponents/foundation/scss/foundation/']
 			},
 			dist: {
 				options: {
@@ -33,12 +33,6 @@ module.exports = function(grunt) {
 			sass: {
 				files: '<%= app %>/scss/**/*.scss',
 				tasks: ['sass']
-			},
-			livereload: {
-				files: ['<%= app %>/**/*.html', '!<%= app %>/bower_components/**', '<%= app %>/js/**/*.js', '<%= app %>/css/**/*.css', '<%= app %>/images/**/*.{jpg,gif,svg,jpeg,png}'],
-				options: {
-					livereload: true
-				}
 			}
 		},
 
