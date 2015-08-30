@@ -1,0 +1,33 @@
+section.content-wrapper {
+	position: relative;
+	margin-left: 0;
+	@media #{$medium-up} {
+		margin-left: 14rem;
+		padding-top: 1rem;
+		// margin-top: 1rem;
+	}
+	@media #{$large-up} {
+		margin-left: 16rem;
+		padding-top: 2rem;
+		// margin-top: 2rem;
+	}
+}
+	#content {
+		background-color: rgba($smoke, 0.9);
+
+		padding:1rem 2rem;
+		position: relative;
+
+	}
+
+
+#layout-footer {
+	color: $ghost;
+	position: fixed;
+	padding: .3rem 1rem;
+	bottom: 0px;
+	z-index: -1;
+	background-color: rgba($black, 0.6);
+	width: 100%;
+	font-size: .75rem;
+}
