@@ -4,7 +4,7 @@ description = "Default layout"
 <html class="no-js" lang="fr">
 <head>
 	<meta charset="utf-8">
-	<title>{{ this.theme.site_name }} - {{ this.page.title }}</title>
+	<title>{{ this.page.title }} - {{ this.theme.site_name }}</title>
 	<meta name="description" content="{{ this.page.meta_description }}">
 	<meta name="title" content="{{ this.page.meta_title }}">
 	<meta name="author" content="Wizioo">
@@ -31,12 +31,15 @@ description = "Default layout"
 
 		<!-- Nav -->
 		<nav class="main-menu">
+			<section class="mobile-menu">
+				<i class="fa fa-bars"></i>
+			</section>
 			<section class="title">
 				<h1>APAPA</h1>
 			</section>
 			<section class="links">
 				<ul>
-					<li><a href="#">Triafond</a></li>
+					<li><a href="/triafond">Triafond</a></li>
 					<li><a href="/association">L'association</a></li>
 					<li><a href="/contact">Contact</a></li>
 				</ul>
@@ -73,18 +76,20 @@ description = "Default layout"
 	<!-- Footer -->
 	<footer id="layout-footer">
 
-	Copyright © 2015 Association APAPA - Association pour la promotion de l'animation auprès des personnes agées. Tous droits réservés.
+	{% partial "footer" %}
 
 	</footer>
 
 	<!-- Scripts -->
 	<script src="{{ [
 	'assets/bowercomponents/jquery/dist/jquery.min.js',
-	'assets/bowercomponents/vegas/dist/vegas.min.js'
+	'assets/bowercomponents/vegas/dist/vegas.min.js',
+	'assets/javascript/app.js'
 	]|theme }}"></script>
 	<script>
 		$( document ).ready(function() {
 			$("body").vegas({
+				overlay: true,
 				slides: [
 				{ src: "http://placekitten.com/g/600/300" },
 				{ src: "http://placekitten.com/g/600/301" },
