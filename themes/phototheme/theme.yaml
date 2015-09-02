@@ -3,3 +3,9 @@ description: 'Ideal Theme for showing big background photos'
 author: wizioo
 homepage: www.wizioo.fr
 code: ''
+form:
+    fields:
+        site_name:
+            label: Nom du site
+            comment: Le nom du site tel qu'il doit apparaitre dans le titre
+            default: PhotoTheme by Wizioo.fr
