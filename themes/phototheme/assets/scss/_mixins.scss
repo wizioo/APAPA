@@ -1,0 +1,18 @@
+//=========================================================
+//
+//		 Mixins
+//
+//=========================================================
+//	Style guide (try to follow)
+//	1. Positioning
+//	2. Display & Box Model
+//	3. Typo
+//	4. Visual
+//	5. Other
+//=========================================================
+
+
+// Specify Font Awesome font
+@mixin font-awesome() {
+	font-family: 'FontAwesome';
+}

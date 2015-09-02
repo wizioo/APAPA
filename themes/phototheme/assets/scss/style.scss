@@ -1,0 +1,65 @@
+//=========================================================
+//
+//		 Main Stylesheet
+//
+//=========================================================
+//	Style guide (try to follow)
+//	1. Positioning
+//	2. Display & Box Model
+//	3. Typo
+//	4. Visual
+//	5. Other
+//=========================================================
+//
+@import "normalize";
+@import "variables";
+@import 'settings';
+@import "components/global";
+
+@import "components/grid";
+// @import 'components/accordion';
+// @import 'components/alert-boxes';
+// @import 'components/block-grid';
+// @import 'components/breadcrumbs';
+// @import 'components/button-groups';
+@import 'components/buttons';
+// @import 'components/clearing';
+// @import 'components/dropdown';
+// @import 'components/dropdown-buttons';
+// @import 'components/flex-video';
+@import 'components/forms';
+// @import 'components/icon-bar';
+// @import 'components/inline-lists';
+// @import 'components/joyride';
+// @import 'components/keystrokes';
+// @import 'components/labels';
+// @import 'components/magellan';
+// @import 'components/orbit';
+// @import 'components/pagination';
+@import 'components/panels';
+// @import 'components/pricing-tables';
+// @import 'components/progress-bars';
+// @import 'components/range-slider';
+// @import 'components/reveal';
+// @import 'components/side-nav';
+// @import 'components/split-buttons';
+// @import 'components/sub-nav';
+// @import 'components/switches';
+// @import 'components/tables';
+// @import 'components/tabs';
+// @import 'components/thumbs';
+// @import 'components/tooltips';
+// @import 'components/top-bar';
+@import 'components/type';
+// @import 'components/offcanvas';
+// @import 'components/visibility';
+
+@import "mixins";
+@import "nav";
+@import "layout";
+@import "shame";
+
+
+div.vegas-timer {
+	z-index: 0 !important;
+}

@@ -1,0 +1,49 @@
+//=========================================================
+//
+//		 Shame Stylesheet : It has to contain NOTHING
+//		 or you'll have to reorder it later
+//
+//=========================================================
+//	Style guide (try to follow)
+//	1. Positioning
+//	2. Display & Box Model
+//	3. Typo
+//	4. Visual
+//	5. Other
+//=========================================================
+//
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-variant: small-caps;
+}
+
+a.social-icons {
+	padding: 2rem;
+
+	font-size: 4rem;
+
+	color: $pink;
+	transition: color .2s;
+
+	&:hover {
+		color: lighten($pink, 10%);
+	}
+}
+
+footer .fa {
+	color: $pink;
+    animation-name: heart-beating;
+    animation-duration: .7s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+/* The animation code */
+@keyframes heart-beating {
+    from {transform: scale(1,1);}
+    to {transform: scale(1.3,1.3);}
+}
