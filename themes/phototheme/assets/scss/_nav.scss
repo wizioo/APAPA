@@ -1,10 +1,32 @@
+//=========================================================
+//
+//		 Navigation Stylesheet
+//
+//=========================================================
+//	Style guide (try to follow)
+//	1. Positioning
+//	2. Display & Box Model
+//	3. Typo
+//	4. Visual
+//	5. Other
+//=========================================================
+//---------------------------------------------------------
+//			Main menu layout
+//---------------------------------------------------------
+//
+//
+//
+//
+//
+//---------------------------------------------------------
 .main-menu {
-	background-color: #0f0;
 	position: relative;
 	top: 0rem;
 	left: 0rem;
 
+	min-width: 12rem;
 
+	background-color: $pink;
 
 	@media #{$medium-up} {
 		position: fixed;
@@ -18,125 +40,239 @@
 		left: 2rem;
 	}
 
-	min-width: 12rem;
 
 	$nav-padding: .5rem 1.5rem;
 
 	section {
 		padding: $nav-padding;
+
 		color: $white;
 	}
 	ul {
-		list-style: none;
 		margin-left: 0;
 		margin: 0;
-	}
 
+		list-style: none;
+	}
+	//---------------------------------------------------------
+	//			Mobile-menu layout
+	//
+	//			Contain Hamburger icon
+	//---------------------------------------------------------
+	.mobile-menu {
+		position: absolute;
+		float: right;
+		right: 1rem;
+
+		padding: 1rem;
+
+		font-size: 1.3rem;
+		text-align: right;
+
+		transition: color .2s;
+
+		cursor: pointer;
+
+		@media #{$medium-up} {
+			display: none;
+		}
+
+		&:hover {
+			color: lighten($pink, 25%);
+		}
+
+
+	}
+	//---------------------------------------------------------
+	//			Title section in nav
+	//---------------------------------------------------------
 	.title {
-		background-color: $pink;
+		display: inline-block;
+		padding: 1rem;
+
 		font-size: 2rem;
-		padding-top: 1.5rem;
+
+		background-color: $pink;
+
+		@media #{$medium-up} {
+			display: block;
+			padding-top: 1.5rem;
+		}
+
+
 		h1 {
+			margin: 0;
+
 			font-family: 'Roboto', sans-serif;
 			font-weight: 400;
-			color: $white;
-			margin: 0;
 			font-size: 1.4rem;
+
+			color: $white;
 		}
+
+	}
+
+	//---------------------------------------------------------
+	//			Link section in nav
+	//---------------------------------------------------------
+	.links {
+		position: fixed;
+		left: 50%;
+		top: 50%;
+		z-index: 5;
+
+		margin: 0 auto;
+
+		text-align: center;
+
+		background-color: transparent;
+		opacity: 0;
+
+		transition: opacity .2s;
+		transform: translate(-50%, -50%);
+
+		@media #{$medium-up} {
+			position: relative;
+			left: 0;
+			top: 0;
+
+			display: block;
+			padding: 0;
+
+			text-align: left;
+
+			background-color: $white;
+			opacity: 1;
+
+			transform: none;
+		}
+
 		&:after {
-			content: "\f0c9";
-			@include font-awesome;
+			content: '';
+
 			position: absolute;
 			top: 0;
 			left: 0;
-			text-align: right;
-			float: right;
-			right: 1rem;
-		}
+			z-index: -1;
 
-	}
+			width: 2000px;
+			height: 8000px;
+			visibility: hidden;
 
-	.links {
-		display: none;
-		&.active {
-			position: fixed;
-			display: block;
-			margin: 0 auto;
-			left: 50%;
-			top: 50%;
+			background-color: rgba($pink,0.8);
+			opacity: 0;
+
+			transition: all .2s;
 			transform: translate(-50%, -50%);
-			z-index: 5;
-			background-color: transparent;
-			text-align: center;
-			a {
-				color : $white;
-				font-size: 1.3rem;
-				&:hover {
-					color: darken($white, 10%);
-				}
-			}
-			&:after {
-				content:'';
-				position: absolute;
-				top: 0;
-				left: 0;
-				width: 2000px;
-				height: 8000px;
-				background-color: rgba($pink,0.8);
-				transform: translate(-50%, -50%);
 
-				z-index: -1;
+			@media #{$medium-up} {
+				content: none;
 			}
 		}
-		@media #{$medium-up} {
-			display: block;
-		}
-		background-color: $white;
-		padding: 0;
+
 		ul {
 			width: 100%;
 		}
 		li {
 			width: 100%;
-			border-bottom: dotted 1px $pink;
-			padding: $nav-padding;
-			padding-right: 2rem;
-			transition: background-color .2s;
+			padding: 1rem 0;
 
-			&:last-child {
-				border-bottom: 0;
+			@media #{$medium-up} {
+
+				padding: $nav-padding;
+				padding-right: 2rem;
+
+				border-bottom: dotted 1px $pink;
+
+				transition: background-color .2s;
+
+				&:last-child {
+					border-bottom: 0;
+				}
+				&:hover {
+					background-color: lighten($pink, 30%);
+				}
 			}
-			&:hover {
-				background-color: lighten($pink, 30%);
-			}
+
 		}
 		a {
-			color : $pink;
 			font-family: 'Raleway', sans-serif;
-			font-size: .8rem;
+			font-size: 1.3rem;
 			font-weight: 300;
 			text-transform: uppercase;
 
+			color : $white;
+
+			transition: color .2s;
+
 			&:hover {
-				color: darken($pink, 10%)
+				color: lighten($pink, 25%);
+			}
+
+			@media #{$medium-up} {
+				font-size: .8rem;
+
+				color : $pink;
+
+				&:hover {
+					color: darken($pink, 10%)
+				}
 			}
 		}
+
 	}
+
+	//---------------------------------------------------------
+	//			Social Icons section in nav
+	//---------------------------------------------------------
 	.social-icons {
-		padding: 0 1.5rem;
+		display: inline-block;
+		padding: 0;
+
 		background-color: $pink;
+
+		@media #{$medium-up} {
+			display: block;
+			padding: 0 1.5rem;
+		}
+
 		ul {
 			list-style: none;
 		}
+
 		li {
 			font-size: 1.5rem;
 			display: inline-block;
 		}
+
 		a {
 			color: $white;
+
 			transition: color .2s;
+
 			&:hover {
 				color: lighten($pink, 25%);
+			}
+		}
+	}
+
+	//---------------------------------------------------------
+	//			Mobile menu when active section in nav
+	//---------------------------------------------------------
+	&.active {
+
+		.mobile-menu {
+			z-index: 6;
+		}
+
+		.links {
+			display: block;
+			visibility: visible;
+			opacity: 1;
+
+			&:after {
+				visibility: visible;
+				opacity: 1;
 			}
 		}
 	}

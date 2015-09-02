@@ -1,33 +1,59 @@
+//=========================================================
+//
+//		 Main Layout Stylesheet
+//
+//=========================================================
+//	Style guide (try to follow)
+//	1. Positioning
+//	2. Display & Box Model
+//	3. Typo
+//	4. Visual
+//	5. Other
+//=========================================================
+
+//---------------------------------------------------------
+//			Global wrapper layout
+//---------------------------------------------------------
 section.content-wrapper {
 	position: relative;
+
 	margin-left: 0;
+
 	@media #{$medium-up} {
 		margin-left: 14rem;
+		margin-right: 1rem;
 		padding-top: 1rem;
-		// margin-top: 1rem;
 	}
+
 	@media #{$large-up} {
 		margin-left: 16rem;
 		padding-top: 2rem;
-		// margin-top: 2rem;
 	}
 }
+
+	//---------------------------------------------------------
+	//			Main Content layout
+	//---------------------------------------------------------
 	#content {
-		background-color: rgba($smoke, 0.9);
-
-		padding:1rem 2rem;
 		position: relative;
+		padding:1rem 2rem;
 
+		background-color: rgba($smoke, 0.9);
 	}
 
-
+//---------------------------------------------------------
+//			Main Footer layout
+//---------------------------------------------------------
 #layout-footer {
-	color: $ghost;
 	position: fixed;
-	padding: .3rem 1rem;
-	bottom: 0px;
-	z-index: -1;
-	background-color: rgba($black, 0.6);
+	bottom: 0;
+	z-index: 1;
+
 	width: 100%;
+	padding: .3rem 1rem;
+
 	font-size: .75rem;
+
+	color: $ghost;
+	background-color: rgba($black, 0.6);
 }

@@ -1,3 +1,16 @@
+//=========================================================
+//
+//		 Main Stylesheet
+//
+//=========================================================
+//	Style guide (try to follow)
+//	1. Positioning
+//	2. Display & Box Model
+//	3. Typo
+//	4. Visual
+//	5. Other
+//=========================================================
+//
 @import "normalize";
 @import "variables";
 @import 'settings';
@@ -9,12 +22,12 @@
 // @import 'components/block-grid';
 // @import 'components/breadcrumbs';
 // @import 'components/button-groups';
-// @import 'components/buttons';
+@import 'components/buttons';
 // @import 'components/clearing';
 // @import 'components/dropdown';
 // @import 'components/dropdown-buttons';
 // @import 'components/flex-video';
-// @import 'components/forms';
+@import 'components/forms';
 // @import 'components/icon-bar';
 // @import 'components/inline-lists';
 // @import 'components/joyride';
