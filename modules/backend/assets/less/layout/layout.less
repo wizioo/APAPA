@@ -34,6 +34,7 @@ body {
 
 body {
     webkit-font-smoothing: antialiased;
+    font-family: @font-family-base;
     background: @body-bg;
 }
 
@@ -111,12 +112,6 @@ body {
         &.middle {
             vertical-align: middle;
         }
-
-        &.width-fix {
-            > form, > div {
-                display: inline-block;
-            }
-        }
     }
 
     display: table;
@@ -145,6 +140,16 @@ body {
 
 .whiteboard {
     background: white;
+}
+
+//
+// Calculated fixed width
+//
+
+.layout-cell.width-fix, [data-calculate-width] {
+    > form, > div {
+        display: inline-block;
+    }
 }
 
 //

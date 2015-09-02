@@ -26,7 +26,8 @@ return [
         'se' => 'Swedish',
         'sk' => 'Slovak (Slovakia)',
         'tr' => 'Turkish',
-        'zh-cn' => 'Chinese (China)'
+        'zh-cn' => 'Chinese (China)',
+        'zh-tw' => 'Chinese (Taiwan)',
     ],
     'directory' => [
         'create_fail' => 'Невозможно создать директорию: :name'
@@ -56,6 +57,7 @@ return [
         ]
     ],
     'theme' => [
+        'label' => 'Тема',
         'unnamed' => 'Безымянная тема',
         'name' => [
             'label' => 'Название темы',
@@ -71,6 +73,7 @@ return [
         'remove_confirm' => 'Вы уверены, что хотите удалить выбранную тему?'
     ],
     'plugin' => [
+        'label' => 'Плагин',
         'unnamed' => 'Безымянный плагин',
         'name' => [
             'label' => 'Имя плагина',
@@ -91,6 +94,8 @@ return [
         'refresh' => 'Обновить',
         'disabled_label' => 'Отключить',
         'disabled_help' => 'Отключенные плагины будут игнорироваться.',
+        'frozen_label' => 'Замораживание обновления',
+        'frozen_help' => 'Плагины, которые были заморожены игнорируются в процессе обновления.',
         'selected_amount' => 'Выбрано плагинов: :amount',
         'remove_confirm' => 'Вы уверены, что хотите удалить этот плагин?',
         'remove_success' => 'Выбранные плагины успешно удалены.',
@@ -150,7 +155,9 @@ return [
         'mailgun_secret_comment' => 'Введите ваш Mailgun API-ключ.',
         'mandrill' => 'Mandrill',
         'mandrill_secret' => 'Секретный ключ Mandrill',
-        'mandrill_secret_comment' => 'Введите ваш Mandrill API-ключ.'
+        'mandrill_secret_comment' => 'Введите ваш Mandrill API-ключ.',
+        'drivers_hint_header' => 'Драйвера не установлены',
+        'drivers_hint_content' => 'Этот почтовый метод требует плагин ":plugin", установленный прежде, чем можно будет отправлять почту.'
     ],
     'mail_templates' => [
         'menu_label' => 'Шаблоны почты',
@@ -190,9 +197,11 @@ return [
         'name' => 'Обновление ПО',
         'menu_label' => 'Обновления',
         'menu_description' => 'Обновление системы, управление и установка плагинов и тем.',
+        'return_link' => 'Вернуться к системе обновлений',
         'check_label' => 'Проверить обновления ',
         'retry_label' => 'Попробовать еще раз',
         'plugin_name' => 'Название',
+        'plugin_code' => 'Код',
         'plugin_description' => 'Описание',
         'plugin_version' => 'Версия',
         'plugin_author' => 'Автор',
@@ -207,6 +216,7 @@ return [
         'plugin_downloading' => 'Загрузка плагина: :name',
         'plugin_extracting' => 'Распаковка плагина: :name',
         'plugin_version_none' => 'Новый плагин',
+        'plugin_current_version' => 'Текущая версия',
         'theme_new_install' => 'Новая тема установлена.',
         'theme_downloading' => 'Загрузка темы: :name',
         'theme_extracting' => 'Распаковка темы: :name',
@@ -223,7 +233,24 @@ return [
         'none' => [
             'label' => 'Нет обновлений',
             'help' => 'Новые обновления не найдены.'
-        ]
+        ],
+        'important_action' => [
+            'empty' => 'Выберите действие',
+            'confirm' => 'Подтвердите обновление',
+            'skip' => 'Пропустить этот плагин (только один раз)',
+            'ignore' => 'Пропустить этот плагин (всегда)',
+        ],
+        'important_action_required' => 'Необходимое действие',
+        'important_view_guide' => 'Посмотреть руководство по обновлению',
+        'important_alert_text' => 'Некоторые обновления требуют вашего внимания.',
+        'details_title' => 'Информация о плагине',
+        'details_view_homepage' => 'Перейти к домашней странице',
+        'details_readme' => 'Документация',
+        'details_readme_missing' => 'Документация не предоставлена.',
+        'details_upgrades' => 'Инструкция по обновлению',
+        'details_upgrades_missing' => 'Инструкция по обновлению не предоставлена.',
+        'details_current_version' => 'Текущая версия',
+        'details_author' => 'Автор',
     ],
     'server' => [
         'connect_error' => 'Ошибка подключения к серверу.',
@@ -273,14 +300,14 @@ return [
         'status_code' => 'Статус'
     ],
     'permissions' => [
-        'name'                        => 'Система',
-        'manage_system_settings'      => 'Настройка системных параметров',
-        'manage_software_updates'     => 'Управлять обновлениями',
-        'access_logs'                 => 'Просмотр системного журнала',
-        'manage_mail_templates'       => 'Управление почтовыми шаблонами',
-        'manage_mail_settings'        => 'Управление настройками почты',
+        'name' => 'Система',
+        'manage_system_settings' => 'Настройка системных параметров',
+        'manage_software_updates' => 'Управление обновлениями',
+        'access_logs' => 'Просмотр системных логов',
+        'manage_mail_templates' => 'Управление почтовыми шаблонами',
+        'manage_mail_settings' => 'Управление настройками почты',
         'manage_other_administrators' => 'Управление другими администраторами',
-        'view_the_dashboard'          => 'Просмотр приборной панели',
-        'manage_branding'             => 'Изменение стилей бэкенда'
+        'view_the_dashboard' => 'Просмотр панели управления',
+        'manage_branding' => 'Персонализация панели управления'
     ]
 ];

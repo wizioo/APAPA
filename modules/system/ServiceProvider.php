@@ -6,7 +6,6 @@ use Event;
 use Config;
 use Backend;
 use Request;
-use DbDongle;
 use Validator;
 use BackendMenu;
 use BackendAuth;
@@ -244,7 +243,7 @@ class ServiceProvider extends ModuleServiceProvider
     protected function registerLogging()
     {
         Event::listen('illuminate.log', function ($level, $message, $context) {
-            if (DbDongle::hasDatabase() && !defined('OCTOBER_NO_EVENT_LOGGING')) {
+            if (EventLog::useLogging()) {
                 EventLog::add($message, $level);
             }
         });
@@ -423,7 +422,8 @@ class ServiceProvider extends ModuleServiceProvider
                     'icon'        => 'icon-exclamation-triangle',
                     'url'         => Backend::url('system/eventlogs'),
                     'permissions' => ['system.access_logs'],
-                    'order'       => 900
+                    'order'       => 900,
+                    'keywords'    => 'error exception'
                 ],
                 'request_logs' => [
                     'label'       => 'system::lang.request_log.menu_label',
@@ -432,7 +432,8 @@ class ServiceProvider extends ModuleServiceProvider
                     'icon'        => 'icon-file-o',
                     'url'         => Backend::url('system/requestlogs'),
                     'permissions' => ['system.access_logs'],
-                    'order'       => 910
+                    'order'       => 910,
+                    'keywords'    => '404 error'
                 ]
             ]);
         });
@@ -448,6 +449,8 @@ class ServiceProvider extends ModuleServiceProvider
          */
         CombineAssets::registerCallback(function($combiner) {
             $combiner->registerBundle('~/modules/system/assets/less/styles.less');
+            $combiner->registerBundle('~/modules/system/assets/ui/storm.less');
+            $combiner->registerBundle('~/modules/system/assets/ui/storm.js');
         });
     }
 

@@ -231,7 +231,7 @@ return [
         'manage_pages' => 'Pārvaldīt lapas',
         'manage_layouts' => 'Pārvaldīt izkārtojumus',
         'manage_partials' => 'Pārvaldīt daļas',
-        'manage_themes' => 'Pārvaldīt tēmas'
+        'manage_themes' => 'Pārvaldīt tēmas',
         'manage_media' => 'Pārvaldīt multividi'
     ],
     'mediafinder' => [
@@ -266,7 +266,6 @@ return [
         'uploading_file_num' => 'Augšupielādējam :number failu(us)...',
         'uploading_complete' => 'Augšupielāde pabeigta',
         'order_by' => 'Kārtot pēc',
-        'search' => 'Meklēt',
         'folder' => 'Mape',
         'no_files_found' => 'Jūsu pieprasītie faili netika atrasti.',
         'delete_empty' => 'Lūdzu izvēlaties objektus, kurus dzēst.',

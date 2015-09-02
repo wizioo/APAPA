@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="<?= App::getLocale() ?>" class="no-js">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0">
@@ -7,10 +7,11 @@
         <meta name="backend-base-path" content="<?= Backend::baseUrl() ?>">
         <meta name="csrf-token" content="<?= csrf_token() ?>">
         <title><?= e(trans('backend::lang.auth.title')) ?></title>
+        <link href="<?= URL::asset('modules/system/assets/ui/storm.css') ?>" rel="stylesheet">
         <link href="<?= URL::to('modules/backend/assets/css/october.css') ?>" rel="stylesheet">
-
         <script src="<?= URL::to('modules/backend/assets/js/vendor/jquery.min.js') ?>"></script>
         <script src="<?= URL::to('modules/system/assets/js/framework.js') ?>"></script>
+        <script src="<?= URL::asset('modules/system/assets/ui/storm-min.js') ?>"></script>
         <script src="<?= URL::to('modules/backend/assets/js/october-min.js') ?>"></script>
         <script src="<?= URL::to('modules/backend/assets/js/auth/auth.js') ?>"></script>
         <?= $this->makeAssets() ?>
@@ -42,4 +43,3 @@
 
     </body>
 </html>
-
