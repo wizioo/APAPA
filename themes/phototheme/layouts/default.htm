@@ -91,9 +91,11 @@ description = "Default layout"
 			$("body").vegas({
 				overlay: true,
 				slides: [
-				{ src: "http://placekitten.com/g/600/300" },
-				{ src: "http://placekitten.com/g/600/301" },
-				{ src: "http://placekitten.com/g/600/302" }
+				{ src: "{{ 'assets/images/backgrounds/bg_start_01.jpg'|theme }}" },
+				{ src: "{{ 'assets/images/backgrounds/bg_bike_01.jpg'|theme }}" },
+				{ src: "{{ 'assets/images/backgrounds/bg_run_01.jpg'|theme }}" },
+				{ src: "{{ 'assets/images/backgrounds/bg_start_02.jpg'|theme }}" },
+				{ src: "{{ 'assets/images/backgrounds/bg_podium_01.jpg'|theme }}" }
 				]
 			});
 		});
